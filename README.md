@@ -47,9 +47,13 @@ Data dapat ditambahkan melalui menu Tambahkan di phpMyAdmin.
 Contoh data yang dimasukkan:
 
 Elektronik – HP Samsung Android
+
 Harga beli 2.000.000
+
 Harga jual 2.400.000
+
 Stok 5
+
 
 5. Mempersiapkan Folder Project
 
