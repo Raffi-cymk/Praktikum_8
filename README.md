@@ -10,7 +10,7 @@ Tujuan praktikum ini adalah:
 
 ---
 
-Langkah Kerja
+# Langkah Kerja
 1. Menjalankan Web Server
 
 Mengaktifkan Apache dan MySQL melalui XAMPP Control Panel.
@@ -82,26 +82,30 @@ Digunakan untuk menghapus data berdasarkan id_barang.
 
 ---
 
-Penjelasan Screenshot
-1. Screenshot Pembuatan Database dan Tabel
+# Penjelasan Screenshot
+**1. Screenshot Pembuatan Database dan Tabel**
+
 Menampilkan proses pembuatan database latihan1 dan tabel data_barang di phpMyAdmin.
 
 <img width="1072" height="590" alt="Screenshot 2025-11-19 131053" src="https://github.com/user-attachments/assets/c50417dc-6c18-42fb-96e4-cc77a7731b95" />
 
 
-2. Screenshot SQL CREATE TABLE
+**2. Screenshot SQL CREATE TABLE**
+
 Menampilkan proses menjalankan perintah SQL untuk membuat struktur tabel.
 
 <img width="705" height="384" alt="Screenshot 2025-11-19 133451" src="https://github.com/user-attachments/assets/327ed32d-cd52-48a1-8d5f-2defa720f10b" />
 
 
-3. Screenshot Struktur Tabel
+**3. Screenshot Struktur Tabel**
+
 Menampilkan seluruh kolom yang telah terbentuk (id_barang, kategori, nama, gambar, harga_beli, harga_jual, stok).
 
 <img width="1323" height="476" alt="Screenshot 2025-11-19 141012" src="https://github.com/user-attachments/assets/27e22447-3950-4484-8b1d-dbc8b4626783" />
 
 
-4. Screenshot Tampilan Awal di Browser
+**4. Screenshot Tampilan Awal Folder Project di Browser**
+
 Menampilkan halaman Index of / saat mengakses:
 http://localhost/lab8_php_database/
 Menunjukkan bahwa semua file CRUD sudah berada di direktori web server.
@@ -109,22 +113,30 @@ Menunjukkan bahwa semua file CRUD sudah berada di direktori web server.
 <img width="643" height="478" alt="Screenshot 2025-11-19 141930" src="https://github.com/user-attachments/assets/495fafd8-1905-4ca8-bece-ccc0574ee2c9" />
 
 
-5. Screenshot Tampilan Data Barang
-Menampilkan tabel data barang yang berhasil ditampilkan melalui file index.php.
-Kolom yang tampil:
+**5. Screenshot Tampilan Data Barang (Tampilan Akhir)**
+
+Menunjukkan tampilan data barang yang langsung muncul saat folder project diakses, berisi:
 
 Gambar
+
 Nama Barang
+
 Kategori
+
 Harga Beli
+
 Harga Jual
+
 Stok
 
 <img width="731" height="288" alt="Screenshot 2025-11-19 141940" src="https://github.com/user-attachments/assets/e902e3b0-f2b0-451b-a908-292a6fd65d9f" />
 
+Seluruh data tersebut tampil dari hasil pemanggilan file PHP pada folder project, yang menggabungkan seluruh proses CRUD yang telah dibuat sebelumnya.
+Tampilan ini merupakan hasil akhir dari praktikum, yaitu data barang yang berhasil ditampilkan dari database.
+
 ---
 
-Kesimpulan
+# Kesimpulan
 
 Praktikum ini berhasil menghasilkan aplikasi CRUD sederhana menggunakan PHP dan MySQL.
 Proses yang dicapai:
