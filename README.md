@@ -46,13 +46,17 @@ Setelah dijalankan, tabel dapat dilihat melalui menu Struktur pada phpMyAdmin.
 Data dapat ditambahkan melalui menu Tambahkan di phpMyAdmin.
 Contoh data yang dimasukkan:
 
-Elektronik – HP Samsung Android
+* Elektronik 
 
-Harga beli 2.000.000
+* – 
 
-Harga jual 2.400.000
+* HP Samsung Android
 
-Stok 5
+* Harga beli 2.000.000
+
+* Harga jual 2.400.000
+
+* Stok 5
 
 
 5. Mempersiapkan Folder Project
